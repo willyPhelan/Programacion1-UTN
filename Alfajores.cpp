@@ -3,6 +3,9 @@
 ///Fecha:21-03-2025
 ///Comentario: Segundo programa del curso 2025 C1 viernes
 
+// Este código solicita la cantidad de alfajores, calcula cuántas cajas completas (de 12 alfajores) y cuántos sueltos hay, 
+// luego calcula el precio total (asumiendo que cada caja cuesta 1000 y cada alfajor suelto cuesta 100)
+
 #include <iostream>
 
 using namespace std;
