@@ -31,3 +31,4 @@ int main() {
     cout << "El importe total de la venta es: $" << importe << endl;
 
     return 0;
+}
