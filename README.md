@@ -1,4 +1,4 @@
-# Programacion-UTN-Clase1
+# Programacion 1 UTN Unidad 1
 
 Repositorio con los ejercicios y pdfs de la primera unidad de Programación 1 en la UTN. 
 
