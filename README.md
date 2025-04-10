@@ -4,8 +4,9 @@
 
 #### [FECHA: MARZO 2025]
 
-Contiene:
+##### Contiene:
 
+Unidad 1: 
 
 Práctica
 
@@ -19,6 +20,31 @@ Teoría
 🔹 Casting en C++
 
 🔹 Errores comunes en diagramas de flujo
+
+Unidad 2: 
+
+Práctica:
+🔹 24 ejercicios prorgresivamente mas dificiles  
+
+Teoría
+
+🔹 ¿Qué son los condicionales?
+
+🔹 La estructura if
+
+🔹 La estructura if...else
+
+🔹 Formato de condiciones
+
+🔹 Operadores relacionales
+
+🔹 Ejemplos válidos e inválidos
+
+🔹 Consideraciones sobre el uso de if y else
+
+
+
+
 
 Estos documentos pueden servir como referencia para quienes estén iniciando en la programación y quieran comprender mejor los fundamentos de C++.
 
