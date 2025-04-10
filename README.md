@@ -4,9 +4,9 @@
 
 #### [FECHA: MARZO 2025]
 
-##### Contiene:
+## Contiene:
 
-Unidad 1: 
+#### Unidad 1: 
 
 Práctica
 
@@ -21,7 +21,7 @@ Teoría
 
 🔹 Errores comunes en diagramas de flujo
 
-Unidad 2: 
+#### Unidad 2: 
 
 Práctica:
 🔹 24 ejercicios prorgresivamente mas dificiles  
