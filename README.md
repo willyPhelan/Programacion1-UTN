@@ -24,6 +24,7 @@ Teoría
 #### Unidad 2: 
 
 Práctica:
+
 🔹 24 ejercicios prorgresivamente mas dificiles  
 
 Teoría
