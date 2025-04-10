@@ -1,4 +1,4 @@
-# Programacion 1 UTN Unidad 1
+# Programacion 1 UTN Unidad 1 y 2
 
 ## Repositorio con los ejercicios y pdfs de las unidades 1 y 2 de Programación 1 en la UTN. 
 
