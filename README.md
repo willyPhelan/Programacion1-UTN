@@ -1,6 +1,8 @@
 # Programacion 1 UTN Unidad 1
 
-Repositorio con los ejercicios y pdfs de la primera unidad de Programación 1 en la UTN. 
+## Repositorio con los ejercicios y pdfs de las unidades 1 y 2 de Programación 1 en la UTN. 
+
+#### [FECHA: MARZO 2025]
 
 Contiene:
 
