@@ -1,4 +1,4 @@
-# Programacion 1 UTN Unidad 1 y 2
+# Programacion 1 UTN Unidad 1, 2 y 3
 
 ## Repositorio con los ejercicios y pdfs de las unidades 1 y 2 de Programación 1 en la UTN. 
 
@@ -43,6 +43,23 @@ Teoría
 
 🔹 Consideraciones sobre el uso de if y else
 
+#### Unidad 3: 
+
+Práctica:
+
+🔹 Guía con más de 30 ejercicios con `for`
+
+Teoría:
+
+🔹 Introducción a los ciclos (`for`, `while`, `do-while`)
+
+🔹 Ciclo exacto (`for`)
+
+🔹 Variable de control, condición e incremento
+
+🔹 Reglas del ciclo exacto
+
+🔹 Diagrama de flujo del ciclo exacto
 
 
 
