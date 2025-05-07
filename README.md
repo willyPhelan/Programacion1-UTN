@@ -53,7 +53,7 @@ Teoría:
 
 🔹 Introducción a los ciclos (`for`, `while`, `do-while`)
 
-🔹 Ciclo exacto (`for`)
+🔹 Ciclo exacto (`for`) y ciclo inexacto (`while`)
 
 🔹 Variable de control, condición e incremento
 
