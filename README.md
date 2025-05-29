@@ -47,7 +47,7 @@ Teoría
 
 Práctica:
 
-🔹 Guía con más de 30 ejercicios con `for`
+🔹 Guía con más de 30 ejercicios con `for` y `while`
 
 Teoría:
 
